@@ -1,0 +1,73 @@
+{
+  "export_date": "2026-10-28",
+  "files": [
+    {
+      "path": "LICENSE",
+      "sha256": "18ed696178c0fc4996e9ca818e08d5d307e2b5d48caede70373a5ab05a44b64d"
+    },
+    {
+      "path": "README.md",
+      "sha256": "ba73aa1e19ccc2b59377a0e19b0ded347ff2afd6d77ac46b9b4c373e1c73d55f"
+    },
+    {
+      "path": "SETUP.md",
+      "sha256": "1312c7634fc920d28790b997ba192ddb344e203a91d1f5cca244f7847430f9af"
+    },
+    {
+      "path": "agent-patterns/open-loops.md",
+      "sha256": "96d4fc7d5d0dfb4c3f1f6385398a80c3d02bdfe76f01f839378ea2a61a36dd42"
+    },
+    {
+      "path": "agent-patterns/receipts-and-preflight.md",
+      "sha256": "e0c4d9b9ede430b94d4792556ebed15826f3a2e0e1859eadc6e9d06d6b3ba95f"
+    },
+    {
+      "path": "agent-patterns/rules-ledger.md",
+      "sha256": "589eb084fc1b45c478469c2065fac4bd5c81e1d31fc35a3bca2bcff00c65958e"
+    },
+    {
+      "path": "skills/agent-signin/SKILL.md",
+      "sha256": "5a5b14792e7d37c06cc93bb5d9a8002bf1bbe9de1d7ae02957c960cb73a86f9a"
+    },
+    {
+      "path": "skills/agent-signin/examples/linkedin-signin.md",
+      "sha256": "767dacca23467866cdaeb82d13c3394f96c400954e0dcd33f9709a58e1fb2557"
+    },
+    {
+      "path": "skills/in-your-own-words/SKILL.md",
+      "sha256": "f0af5956ee0eca8178f2c27698545dba7fcd7398b2eccf0fadd0b5ae746059da"
+    },
+    {
+      "path": "skills/stay-in-free-tier-storage-manager/SKILL.md",
+      "sha256": "b482364c55df24c1e533da4fa6353822c16c4f39b753cadaaeb698e85f984fd6"
+    },
+    {
+      "path": "skills/verify-interview-ready/SKILL.md",
+      "sha256": "51ca40167286d22ffcd2c258a50c8f08781bcf53ec6128508d68d6a29ec71078"
+    },
+    {
+      "path": "skills/verify-open-source/SKILL.md",
+      "sha256": "b985033961017a95c750e70888b90d8f0e5f3a74e7eb9a1b11fe075f0e8ba9c2"
+    },
+    {
+      "path": "skills/verify-pattern/SKILL.md",
+      "sha256": "b521e3183b418f2aea16cdf9aafbdb320b0dc6faf05fabecdc0debe665b73aaa"
+    },
+    {
+      "path": "skills/verify-showcase/SKILL.md",
+      "sha256": "f0289cd7a0c80c783278d57d7fbe7e9a61a40565e4f74c1a6bf28d5b71eb6c9e"
+    }
+  ],
+  "publication_date": "2026-10-28",
+  "skills": [
+    "agent-signin",
+    "in-your-own-words",
+    "stay-in-free-tier-storage-manager",
+    "verify-interview-ready",
+    "verify-open-source",
+    "verify-pattern",
+    "verify-showcase"
+  ],
+  "source_commit": "8a352f4c2fcba90bb5ee1fe395863f9a14601d15",
+  "source_repo": "krantikaridev/self"
+}
